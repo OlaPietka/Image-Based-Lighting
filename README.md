@@ -32,4 +32,4 @@ Background image          |  Rendered objects  |  Result image
 
 This project has been a great exploration of image-based lighting and the use of HDR imagery to render realistic synthetic objects. I hope you find this journey as fascinating as I did and that it provides a deeper insight into the intricacies of image-based lighting.
 
-For a more detailed understanding of the project and its outcomes, please refer to the individual sections within the [notebook](https://github.com/OlaPietka/Image-Based-Lighting/blob/main/AnalysisReport.pdf) file and [report](https://github.com/OlaPietka/Image-Based-Lighting/main/ImageBasedLighting.ipynb).
+For a more detailed understanding of the project and its outcomes, please refer to the individual sections within the [notebook](https://github.com/OlaPietka/Image-Based-Lighting/blob/main/AnalysisReport.pdf) file and [report](https://github.com/OlaPietka/Image-Based-Lighting/blob/main/ImageBasedLighting.ipynb).
